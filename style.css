@@ -1,0 +1,76 @@
+
+/* Section 1 */
+
+p.bolder {
+    text-align: center;
+    background-color: rgb(170, 221, 255);
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    font-weight: bolder;
+}
+
+hr.top {
+    margin-bottom: -0.5%;
+}
+
+hr.peque {
+    margin-top: -0.5%;
+    width: 50%;
+}
+
+p.img {
+    text-align: center;
+}
+
+img.valencia {
+    width: 10vw;
+    height: 15vh;
+}
+
+img.valencia:hover {
+    opacity: 50%;
+}
+
+/* Section 2 */
+
+hr.blue {
+    color: blue;
+    height: 1.5vh;
+    background-color: blue;
+}
+
+h2 {
+    text-align: center;
+    margin-left: -15%;
+    font-weight: normal;
+}
+
+span.BlueHover:hover {
+    background-color: rgb(219, 232, 255);
+}
+
+section.valencia-2 {
+    background-image: url(img/valencia_antigua.jpg);
+    background-repeat: repeat-x;
+    width: 62%;
+    border: 2px black solid;
+    margin-top: -9px;
+}
+
+section.valencia-2 p {
+    color: blue;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+
+/* Section 3 */
+
+section.valencia-3 {
+    background-color: rgb(172, 229, 255);
+}
+
+img.valencia-3 {
+    width: 400px;
+    height: 270px;
+}
